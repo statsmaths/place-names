@@ -14,9 +14,10 @@ becomes a challenge when working with hundreds and
 thousands of documents. How might we be able to more
 accurately predict the exact location using the broader
 context?
-Our poster „Locating Place Names at Scale: Using
+
+Our poster "Locating Place Names at Scale: Using
 Natural Language Processing to Identify Geographical
-Information in Text“ addresses how computational methods
+Information in Text" addresses how computational methods
 can be used to identify and geolocate place-based
 data. We show how Named Entity Recognition (NER), a
 natural language processing (NLP) technique, can locate
@@ -35,6 +36,7 @@ locations, distances to the closest reference points
 in the text are used to break ties. This strategy increases
 proper place name identification and can be applied automatically
 over a large corpus of digitized texts.
+
 Finally, we turn to an example from our collaborative
 project on the United States Federal Writers‘ Project
 (FWP) entitled Voice of a Nation: Mapping Documentary
